@@ -1,0 +1,20 @@
+{
+  "name": "lny/php-unzip",
+  "description": "解压缩包",
+  "authors": [
+    {
+      "name": "Lny",
+      "email": "2635214715@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "UnZip\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
